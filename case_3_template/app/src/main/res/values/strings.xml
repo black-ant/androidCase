@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ant-Black</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">栏目</string>
+    <string name="title_notifications">通知</string>
+
+    <!-- Color -->
+    <color name="opaque_red">#f00</color>
+
+    <!-- Value -->
+    <string name="hello">Hello!</string>
+    <string name="user_name">Ant-Black !</string>
+    <string name="user_url">www.antblack.xyz</string>
+
+    <!-- navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
